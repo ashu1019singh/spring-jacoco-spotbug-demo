@@ -7,13 +7,12 @@
 	<groupId>com.learning</groupId>
 	<artifactId>spring-jacoco-spotbug</artifactId>
 	<version>v1.0</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.0.5.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
